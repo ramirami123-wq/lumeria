@@ -254,21 +254,11 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
-        },
-        "button_hmktdE": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_zzDEQ9",
-        "text_knXezK",
-        "button_hmktdE"
+        "text_knXezK"
       ],
       "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
