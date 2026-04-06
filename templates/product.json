@@ -53,6 +53,7 @@
         },
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
           }
@@ -194,6 +195,7 @@
         "announcement_VedEM3",
         "announcement_4PGkyK"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -268,6 +270,7 @@
         "text_knXezK",
         "button_hmktdE"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -283,6 +286,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -347,6 +351,7 @@
         "announcement_X4NM9d",
         "announcement_DUxg9U"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -395,6 +400,7 @@
         "text_TMMKVG",
         "button_EczeG4"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -410,6 +416,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -478,6 +485,7 @@
       "block_order": [
         "ai_gen_block_670abac_ntXYgM"
       ],
+      "disabled": true,
       "settings": {}
     },
     "faq_RiCWTb": {
@@ -518,6 +526,7 @@
         "question_egRtqC",
         "question_ctCGbG"
       ],
+      "disabled": true,
       "name": "t:sections.faq.presets.name",
       "settings": {
         "narrow": false,
