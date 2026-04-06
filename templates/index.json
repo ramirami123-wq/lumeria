@@ -114,7 +114,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#e6a640",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -190,7 +190,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#e6a640",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
